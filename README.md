@@ -17,6 +17,20 @@ dev.to
 https://devicon.dev/
 Fazedor de gifs: https://picrew.me/image_maker/338224
 ezgif.com/video-to-gif
+
+Repositório do roteiro desse vídeo: https://github.com/rafaballerini/Perf...
+Repositório do meu perfil - https://github.com/rafaballerini/rafa...
+Guia de markdown - https://docs.pipz.com/central-de-ajud...
+Site de emojis - https://emojipedia.org/search/?q=bag
+Repositório do Github Stats - https://github.com/anuraghazra/github...
+Site de Badges 1 - https://dev.to/envoy_/150-badges-for-...
+Fazedor de gifs - https://picrew.me/image_maker/338224
+Passo a passo de como adicionar a cobrinha de commit - https://www.instagram.com/p/CPjUBhXDNEE/
+
+Colocar uma foto na internet
+imgur.com
+
+
 -->
 
 ## Gerenciador de Projetos e criador de conteúdo de programação e tecnologia!
@@ -54,7 +68,7 @@ ezgif.com/video-to-gif
   <img align="center" alt="Gene-Blender" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg">
     
   
-  <img align="right" alt="Gene-pic" height="150" style="border-radius:50px;" src="https://gifimage.net/wp-content/uploads/2018/11/matrix-background-animated-gif.gif">
+  <img align="right" alt="Gene-pic" height="150" style="border-radius:50px;" src="https://i.imgur.com/hWDaJg4.png">
 </div>
   
   ## DESCRIÇÃO
