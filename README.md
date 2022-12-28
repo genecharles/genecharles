@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 dev.to
 https://devicon.dev/
+ezgif.com/video-to-gif
 -->
 
 ## Gerenciador de Projetos e criador de conteúdo de programação e tecnologia!
@@ -55,7 +56,7 @@ https://devicon.dev/
   <img align="right" alt="Gene-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676">
 </div>
   
-  ##
+  ## DESCRIÇÃO
   
   <div> 
   <a href="https://www.youtube.com/channel/UCwlUW-13gwRGXhqelysVKXw" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
